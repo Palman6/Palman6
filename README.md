@@ -64,7 +64,7 @@ As a Product Analysis Acceptance(Quality Assurance Engineer), my primary focus i
 
  - Druk Green Power Corporation (DGPC) (Bhutan)   
        App development involves the creation of Targets for Subordinates by the Supervisor and includes a rating score for the target.   
-       Tools: Ruby on Rails, Angular 11, MS SQL Server, GraphQL, HTML, SASS, CSS, Flex Layout, and Material Design.
+       Tools: Cypress(End-2-End Testing), Mailosaur Email Testing 
        Role: Quality Assurance Engineer  
 
 ***
