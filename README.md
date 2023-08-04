@@ -1,13 +1,12 @@
 ## Hello! I'm [Palman Ghalley](https://www.linkedin.com/in/palman-ghalley-042692213/)
 #### About Me  
-I am an experienced Quality Assurance Engineer/Developer with over 3 years of professional experience. I have a strong passion for ensuring software quality and delivering reliable products to end-users.  
+I am a Quality Assurance Engineer/Developer with over three years of professional experience. My passion lies in ensuring software quality and delivering reliable products to end-users.
 
-Throughout my career, I have honed my skills in automation testing using the Cypress framework, among others. I am well-versed in utilizing the Cypress testing framework to conduct efficient and effective automated tests. With my proficiency in Cypress, I have successfully implemented test automation solutions that have improved testing accuracy, reduced manual effort, and accelerated release cycles.
-
+During my professional journey, I have developed expertise in automation testing, specifically using the Cypress framework, among other tools. My experience has helped me become proficient in leveraging the Cypress testing framework to carry out automated tests in an efficient and effective way. My proficiency in Cypress has enabled me to implement automated test solutions that have enhanced testing precision, minimized manual work, and hastened release cycles.
 ***
 
 **🌱 Learning and Growth:**  
-I have a strong commitment to continuous learning and staying updated with the latest industry trends, exploring new technologies, and best practices. I actively participate in professional development opportunities, such as workshops and conferences, to enhance my skills and broaden my knowledge.
+I am fully dedicated to constantly learning and staying up-to-date with the latest trends, and exploring new technologies and best practices. I take part in various professional development opportunities such as workshops and conferences to improve my skills and expand my knowledge.
 
 
 ***
