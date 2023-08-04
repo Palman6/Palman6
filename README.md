@@ -49,12 +49,12 @@ As a Product Analysis Acceptance(Quality Assurance Engineer), my primary focus i
 #### 💻 Highlight Project.
 
 - UPC Sunrise Business Schweiz (Switzerland)
-   1. OneHub: 2020 - P
+   1. OneHub: 2020 - Present  
        This is a comprehensive solution that allows for the dynamic creation of quotes and the conversion of those quotes into orders. Customers and internal sales teams can both track these orders.
        Tools: Cypress(End-2-End Testing), Mailosaur Email Testing  
        Role: Quality Assurance Engineer
 
-   3. OneHubPlus: 2021 - Present
+   3. OneHubPlus: 2021 - Present  
        Introducing a powerful CRM solution designed to streamline customer management, internal reporting, and opportunity management.
        Tools: Cypress(End-2-End Testing), Mailosaur Email Testing  
        Role: Quality Assurance Engineer 
