@@ -1,3 +1,73 @@
+<div id="header" align="center">
+  <h1>Hello, I'm Palman Ghalley</h1>
+  <img src="[insert an image of yourself or something you like]" width="200" />
+  <p>[briefly describe yourself and your interests]</p>
+</div>
+
+<div id="bio">
+  <h2>About Me</h2>
+ <span>I am a Quality Assurance Engineer/Developer with over three years of professional experience. My passion lies in ensuring software quality and delivering reliable products to end-users.
+
+During my professional journey, I have developed expertise in automation testing, specifically using the Cypress framework, among other tools. My experience has helped me become proficient in leveraging the Cypress testing framework to carry out automated tests in an efficient and effective way. My proficiency in Cypress has enabled me to implement automated test solutions that have enhanced testing precision, minimized manual work, and hastened release cycles.</span>
+</div>
+
+<div id="stats">
+  <h2>Stats</h2>
+  <img align="center" src="https://streak-stats.demolab.com?user=palman6&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palman6&layout=compact&theme=cobalt&hide_border=true" alt="Language"/>
+</div>
+
+<div id="skills">
+  <h2>Skills</h2>
+  <ul>
+    <li> Language: Javascript, TypeScript, Ruby, C, C++.</li>
+    <li> Databases: MySQL. </li>
+    <li> Versioning Tools: GIT. </li>
+    <li> Project Management Tools: Trello, ClickUp, Scrum.</li>
+    <li> Frameworks: Cypress, Angular, Ruby on Rails. </li> 
+    <li> Testing: End-2-End Tests, Functional Tests, Unit Tests, Integration Tests, Rspec.</li>
+    <li> Integrations: Cypress Cloud(Cypress Dashboard) For Test Report.</li>
+    <li> Soft Skills: Collaboration and communication, Problem-Solving, Creative, Critical Thinking, Adaptive, and Leadership.</li> 
+  </ul>
+</div>
+
+## Favorite Tech
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="ts" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="ruby" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="Angular" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg"  title="Rails" alt="rails" width="40" height="40"/>&nbsp;
+  <div>
+
+  <div id="experience">
+  <h2>💼 Professional Experience: </h2>
+  <ul>
+    <li>Led the end-to-end quality assurance process for multiple software projects, collaborating closely with development teams and stakeholders to define test objectives, design test plans, and execute testing activities.</li>
+    <li>Developed and executed manual and automated test cases using tools such as Cypress ensuring comprehensive coverage of functional and non-functional requirements.</li>
+    <li>Implemented continuous integration and deployment (CI/CD) pipelines to streamline the testing process and improve overall efficiency.</li>
+    <li>Proactively identified and reported defects, working closely with developers to resolve issues and ensure a smooth release cycle.</li>
+    <li>Conducted performance testing to evaluate system scalability, stability, and responsiveness, optimizing application performance to enhance the user experience.</li>
+    <li>Recommending technological developments and improvements to reduce inefficiencies.</li>
+    <li>Continually update technical knowledge and skills by attending in-house and external courses, reading manuals, and accessing new applications.</li>
+    <li>Actively review code written by colleagues.</li>
+    <li>Worked closely with front-end developers, UI developers, UX designers, and business analysts.</li>
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Hello! I'm [Palman Ghalley](https://www.linkedin.com/in/palman-ghalley-042692213/)
 #### About Me  
 I am a Quality Assurance Engineer/Developer with over three years of professional experience. My passion lies in ensuring software quality and delivering reliable products to end-users.
@@ -99,15 +169,3 @@ As a Product Analysis Acceptance(Quality Assurance Engineer), my primary focus i
 Email: palmanghalley@gmail.com  
 Phone: (+975) 17508108 / 77336039
 
-
-***
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
