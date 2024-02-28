@@ -1,12 +1,12 @@
 ## Hello! I'm [Palman Ghalley](https://www.linkedin.com/in/palman-ghalley-042692213/)
 #### About Me  
-I am a Quality Assurance Engineer/Developer with over three years of professional experience. My passion lies in ensuring software quality and delivering reliable products to end-users.
+I am a Senior Software Quality Assurance Engineer/Developer with over three years of professional experience. My passion lies in ensuring software quality and delivering reliable products to end-users.
 
-During my professional journey, I have developed expertise in automation testing, specifically using the Cypress framework, among other tools. My experience has helped me become proficient in leveraging the Cypress testing framework to carry out automated tests in an efficient and effective way. My proficiency in Cypress has enabled me to implement automated test solutions that have enhanced testing precision, minimized manual work, and hastened release cycles.
+During my professional journey, I have developed expertise in automation testing, specifically using the Cypress framework, among other tools. My experience has helped me become proficient in leveraging the Cypress testing framework to carry out automated tests efficiently and effectively. My proficiency in Cypress has enabled me to implement automated test solutions that have enhanced testing precision, minimized manual work, and hastened release cycles.
 ***
 
 **🌱 Learning and Growth:**  
-I am fully dedicated to constantly learning and staying up-to-date with the latest trends, and exploring new technologies and best practices. I take part in various professional development opportunities such as workshops and conferences to improve my skills and expand my knowledge.
+I am fully dedicated to constantly learning and staying up-to-date with the latest trends and exploring new technologies and best practices. I take part in various professional development opportunities such as workshops and conferences to improve my skills and expand my knowledge.
 
 
 ***
