@@ -1,5 +1,5 @@
 
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Palman Ghalley](https://www.linkedin.com/in/palman-ghalley-042692213/) | Software Engineer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Palman Ghalley](https://www.linkedin.com/in/palman-ghalley-042692213/) | Senior Software Engineer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 I am a versatile developer with a focus on backend technologies. Currently, I specialize in Ruby on Rails for GraphQL and RESTful API development, while also delving into NestJS as part of my journey to become a proficient Node.js backend developer. 
 
@@ -7,9 +7,10 @@ I am a versatile developer with a focus on backend technologies. Currently, I sp
 
 #### 💼 Professional Experience:  
 [SELISE (Secure Link Services Ltd.)](https://www.linkedin.com/company/selise/mycompany/)  
-1. Software Engineer(Back-end DEveloper) | February 2024 - <span style="color: green;">Present</span>  
-2. Senior Product Analysis Acceptance (Quality Assurance Engineer) | January 2024 - <span style="color: green;">February 2024</span>
-3. Product Analysis Acceptance (Quality Assurance Engineer) | May 2020 - <span style="color: green;">December 2023</span>  
+1. Senior Software Engineer(Back-end Developer) | January 2025 - <span style="color: green;">Present</span>
+2. Software Engineer(Back-end Developer) | January 2024 - <span style="color: green;">December 2024</span>
+3. Senior Product Analysis Acceptance (Quality Assurance Engineer) | January 2024 - <span style="color: green;">February 2024</span>
+4. Product Analysis Acceptance (Quality Assurance Engineer) | May 2020 - <span style="color: green;">December 2023</span>  
    - Led the end-to-end quality assurance process for multiple software projects, collaborating closely with development teams and stakeholders to define test objectives, design test plans, and execute testing activities.
    - Developed and executed manual and automated test cases using tools such as Cypress ensuring comprehensive coverage of functional and non-functional requirements.
    - Implemented continuous integration and deployment (CI/CD) pipelines to streamline the testing process and improve overall efficiency.
