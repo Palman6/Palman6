@@ -96,16 +96,11 @@ Lets supervisors create and score targets for their subordinates, with rating-ba
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Palman6&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&theme=tokyonight" alt="Palman's GitHub stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palman6&layout=compact&hide_border=true&cache_seconds=86400&theme=tokyonight" alt="Top languages"/>
+  <img width="49%" src="https://github-readme-stats-virid-omega-43.vercel.app/api?username=Palman6&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&theme=tokyonight" alt="Palman's GitHub stats"/>
+  <img width="49%" src="https://github-readme-stats-virid-omega-43.vercel.app/api/top-langs/?username=Palman6&layout=compact&hide_border=true&cache_seconds=86400&theme=tokyonight" alt="Top languages"/>
 </p>
-
 <p align="center">
   <img width="49%" src="https://streak-stats.demolab.com/?user=Palman6&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Palman6&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
 </p>
 
 ---
